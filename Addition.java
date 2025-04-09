@@ -20,3 +20,5 @@ public class Addition {
         scanner.close();
     }
 }
+System.out.print("Enter second number: ");
+int num2 = scanner.nextInt();
